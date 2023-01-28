@@ -14,6 +14,7 @@ public class SinglyRunnerClass {
 
         list.insertAtIndex(100,3);
 
+
         list.display();
 
         System.out.println(list.deleteFirst() + " -> Deleted");
