@@ -16,6 +16,6 @@ public class PeekInMountainArray {
             }
             else s = mid+1;
         }
-        return arr[s];
+        return s;
     }
 }
